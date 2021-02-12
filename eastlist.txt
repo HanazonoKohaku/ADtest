@@ -28,16 +28,10 @@
 ||tracking.prd.mz.internal.unity3d.com^$important
 ||httpkafka.unityads.unity3d.com^$important
 ||*.unityads.unitychina.cn^$important
-#解封巴哈/magisk官網/小米錢包誤封
+#解誤封
 @@||012.tw^$important
 @@||magiskmanager.com^$important
-#@@||api.jr.mi.com^$important
-#@@||tsmclient.miui.com^$important
 @@||analytics.twitter.com^$important
-#@@||sa.api.intl.miui.com^$important
-#@@||api.brs.intl.miui.com^$important
-#@@||preview.data.sec.miui.com^$important
-#@@||data.mistat.intl.xiaomi.com^$important
 @@||app-measurement.com^$important
 @@||ehtt.now.sh^$important
 @@||ww38.twittwe.com^$important
