@@ -1,5 +1,4 @@
-#禁止teamviewer中國特供版聯網
-||*.teamviewer.cn^$important
+@@||*.teamviewer.cn^$important
 #移除哔咔广告
 ||ad-*.wikawika.xyz^$important
 #解封wireshark
