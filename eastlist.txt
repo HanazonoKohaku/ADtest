@@ -1,4 +1,3 @@
-@@||*.teamviewer.cn^$important
 #移除哔咔广告
 ||ad-*.wikawika.xyz^$important
 #解封wireshark
@@ -35,5 +34,6 @@
 @@||ehtt.now.sh^$important
 @@||ww38.twittwe.com^$important
 @@||app.link^$important
+@@||*.teamviewer.cn^$important
 #封鎖中共版Steam
 ||*.steamchina.com^$important
