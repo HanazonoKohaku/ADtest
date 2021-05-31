@@ -5,7 +5,7 @@
 #輪子内容屏蔽
 /(.*\.||)(dafahao|minghui|dongtaiwang|epochtimes|ntdtv|falundafa|wujieliulan|zhengjian|dwnews|mhradio)\.(org|com|net)/
 #屏蔽中共走狗
-/(.+\.|^)(360|so)\.(cn|com)/
+#/(.+\.|^)(360|so)\.(cn|com)/
 #防止流量劫持及隐私泄露(快壓)
 /(kpzip)(.)/
 #屏蔽百度定位
@@ -13,8 +13,8 @@
 #防止恶意定位以及爬虫
 /(.+\.|^)(whatismyip|whatismyipaddress|iplocation|myip|whatismybrowser)\.(cn|com|net|com|network)/
 #拒絕中國特供版谷歌
-||*.google.com.hk^$important
-||*.google.cn^$important
+#||*.google.com.hk^$important
+#||*.google.cn^$important
 #屏蔽QN/PCL後門
 ||*.ioctl.cc^$important
 ||*.myqcloud.com$important
