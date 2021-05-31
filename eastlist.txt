@@ -35,5 +35,17 @@
 @@||ww38.twittwe.com^$important
 @@||app.link^$important
 @@||*.teamviewer.cn^$important
+@@||tw.xiaomai.dynamic-dns.net^$important
+@@||pro.losadhwselfff2332dasd.xyz^$important
+@@||8o.tn^$important
+@@||adfoc.us^$important
+@@||1.down.uowmqvt.cn^$important
+@@||*.st.com^$important
 #封鎖中共版Steam
 ||*.steamchina.com^$important
+#封後門
+||*.lan^$important
+||*.unityads.*^$important
+||thanox.emui.tech^$important
+||ad.21cn.com^$important
+||*.ad.21cn.com^$important
