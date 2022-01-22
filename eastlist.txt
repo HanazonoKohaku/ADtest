@@ -43,6 +43,12 @@
 @@||*.st.com^$important
 #封鎖中共版Steam
 ||*.steamchina.com^$important
+#屏蔽中共反诈中心
+||stat.openinstall.io^$important
+||avlyun.com^$important
+||avlyun.com.lan^$important
+||gjfzpt.cn^$important
+||gjfzpt.cn.lan^$important
 #封後門
 ||*.lan^$important
 ||*.unityads.*^$important
