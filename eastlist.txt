@@ -49,6 +49,10 @@
 ||avlyun.com.lan^$important
 ||gjfzpt.cn^$important
 ||gjfzpt.cn.lan^$important
+||*.avlyun.com^$important
+||*.avlyun.com.lan^$important
+||*.gjfzpt.cn^$important
+||*.gjfzpt.cn.lan^$important
 #封後門
 ||*.lan^$important
 ||*.unityads.*^$important
