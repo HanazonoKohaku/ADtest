@@ -41,6 +41,7 @@
 @@||adfoc.us^$important
 @@||1.down.uowmqvt.cn^$important
 @@||*.st.com^$important
+@@||s.youtube.com^$important
 #封鎖中共版Steam
 ||*.steamchina.com^$important
 #屏蔽中共反诈中心
@@ -54,6 +55,8 @@
 ||*.gjfzpt.cn^$important
 ||*.gjfzpt.cn.lan^$important
 #封後門
+||*.installer.xiaomi.com^$important
+||*.installer.xiaomi.com.lan^$important
 ||*.lan^$important
 ||*.unityads.*^$important
 ||thanox.emui.tech^$important
