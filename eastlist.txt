@@ -55,6 +55,7 @@
 ||*.gjfzpt.cn^$important
 ||*.gjfzpt.cn.lan^$important
 #封後門
+||update.miui.com^$important
 ||*.installer.xiaomi.com^$important
 ||*.installer.xiaomi.com.lan^$important
 ||*.lan^$important
