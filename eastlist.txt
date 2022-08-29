@@ -17,7 +17,6 @@
 #||*.google.cn^$important
 #屏蔽QN/PCL後門
 ||*.ioctl.cc^$important
-||*.myqcloud.com$important
 #unity小游戏广告
 ||rt.applvn.com^$important
 ||a.applvn.com^$important
